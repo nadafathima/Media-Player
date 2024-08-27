@@ -1,0 +1,14 @@
+MEDIA PLAYER:
+
+-REACT FRONTEND AND JSON SERVER BACKEND
+
+-add,view,delete youtube videos
+- add,view,delete  categories
+-view watch history
+-
+
+->React Bootstrap
+
+npm install react-bootstrap bootstrap
+
+bootsrap theme - bootswatch.com
