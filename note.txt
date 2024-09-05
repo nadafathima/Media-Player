@@ -12,3 +12,9 @@ MEDIA PLAYER:
 npm install react-bootstrap bootstrap
 
 bootsrap theme - bootswatch.com
+
+alert - react tostify
+
+session storage and local storage:
+
+mostly similar
